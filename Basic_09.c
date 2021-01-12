@@ -1,3 +1,4 @@
+/*計算正整數被3整除之數值之總和*/
 #include <stdio.h>
 #include <stdlib.h>
 
