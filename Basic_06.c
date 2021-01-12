@@ -1,3 +1,4 @@
+/*季節判定*/
 #include<stdio.h>
 #include<stdlib.h>
 
